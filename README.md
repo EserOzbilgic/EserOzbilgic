@@ -42,12 +42,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&show_icons=true&count_private=true&theme=radical" alt="Eser's GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&show_icons=true&count_private=true&theme=radical" alt="Eser's GitHub Stats" width="49%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EserOzbilgic&theme=radical" alt="GitHub Streak"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EserOzbilgic&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
 
 
