@@ -41,12 +41,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&show_icons=true&count_private=true&theme=radical&token=YOUR_NEW_TOKEN" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=radical&token=YOUR_NEW_TOKEN" alt="Top Languages" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EserOzbilgic&theme=radical" alt="GitHub Streak" width="49%"/>
+  ![Top Langs](https://img.shields.io/github/languages/top/EserOzbilgic?style=for-the-badge&theme=radical)
+  ![Repos](https://img.shields.io/github/repos/EserOzbilgic?style=for-the-badge&theme=radical)
+  ![Followers](https://img.shields.io/github/followers/EserOzbilgic?style=for-the-badge&logo=github&theme=radical)
 </p>
 
 
