@@ -38,7 +38,6 @@
 | ![Image Processing](https://img.shields.io/badge/Image%20Processing-009688?style=for-the-badge&logo=opencv&logoColor=white) | ![Mobile Development](https://img.shields.io/badge/Mobile%20Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
