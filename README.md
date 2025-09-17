@@ -38,23 +38,17 @@
 | ![Image Processing](https://img.shields.io/badge/Image%20Processing-009688?style=for-the-badge&logo=opencv&logoColor=white) | ![Mobile Development](https://img.shields.io/badge/Mobile%20Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
 ---
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
-
-  <!-- Top Languages -->
-  ![Top Languages](https://img.shields.io/github/languages/top/EserOzbilgic?style=for-the-badge&theme=dark&logoColor=white)
-
-  <!-- Repo Count -->
-  ![Repositories](https://img.shields.io/github/repo-count/EserOzbilgic?style=for-the-badge&theme=dark&logo=github&logoColor=white)
-
-  <!-- Followers -->
-  ![Followers](https://img.shields.io/github/followers/EserOzbilgic?style=for-the-badge&theme=dark&logo=github&logoColor=white)
-
-  <!-- Last Commit -->
-  ![Last Commit](https://img.shields.io/github/last-commit/EserOzbilgic?style=for-the-badge&theme=dark&logo=github&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EserOzbilgic&theme=radical" />
+</p>
+
 
 
 
