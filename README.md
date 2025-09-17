@@ -41,10 +41,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Top Langs](https://img.shields.io/github/languages/top/EserOzbilgic?style=for-the-badge&theme=radical)
-  ![Repos](https://img.shields.io/github/repos/EserOzbilgic?style=for-the-badge&theme=radical)
-  ![Followers](https://img.shields.io/github/followers/EserOzbilgic?style=for-the-badge&logo=github&theme=radical)
+
+  <!-- Top Languages -->
+  ![Top Languages](https://img.shields.io/github/languages/top/EserOzbilgic?style=for-the-badge&theme=dark&logoColor=white)
+
+  <!-- Repo Count -->
+  ![Repositories](https://img.shields.io/github/repo-count/EserOzbilgic?style=for-the-badge&theme=dark&logo=github&logoColor=white)
+
+  <!-- Followers -->
+  ![Followers](https://img.shields.io/github/followers/EserOzbilgic?style=for-the-badge&theme=dark&logo=github&logoColor=white)
+
+  <!-- Last Commit -->
+  ![Last Commit](https://img.shields.io/github/last-commit/EserOzbilgic?style=for-the-badge&theme=dark&logo=github&logoColor=white)
+
 </p>
+
 
 
 ---
