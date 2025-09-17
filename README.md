@@ -44,9 +44,15 @@
 
 ### 📊 GitHub Stats  
 
-![Eser's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=radical&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=radical" height="180em"/>
+</p>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EserOzbilgic&theme=radical" height="180em"/>
+</p>
+
 
 
 ---
