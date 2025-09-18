@@ -57,7 +57,8 @@
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/EserOzbilgic?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/EserOzbilgic?theme=dark&font=Baloo&ext=contest" />
+
 </p>
 
 ---
