@@ -40,6 +40,14 @@
 ---
 ### 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EserOzbilgic&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 
