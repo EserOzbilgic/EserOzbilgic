@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EserOzbilgic&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=EserOzbilgic&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200em" alt="GitHub Streak" />
 </p>
 
 
