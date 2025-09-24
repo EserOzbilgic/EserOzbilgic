@@ -2,8 +2,8 @@
 
 ### 🎓 Computer Engineering Graduate | GPA: 3.27  
 💻 **Backend Developer in Progress** (Node.js & .NET)  
-🚀 Passionate about **scalable server-side applications**, **AI-driven solutions**, and **image processing projects**  
-🌱 Currently learning **advanced backend concepts**, **SQL**, **Python**, and **React.js**
+🚀 Passionate about **scalable server-side applications**, **AI-driven solutions**, and **Mobile Apps**
+🌱 Currently learning **advanced backend concepts**, **SQL**, **C#**, and **React.js**  
 
 ---
 
