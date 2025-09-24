@@ -2,6 +2,7 @@
 
 🎓 **Computer Engineering Graduate** | GPA: 3.27  
 💻 **Backend Developer**(Learning Node.js & .NET)
+
 🚀 Building **scalable server-side apps**, **AI-driven solutions**, and **image processing projects**  
 🌱 Exploring **advanced backend concepts**, **SQL**, **Python**, and **React.js**  
 
