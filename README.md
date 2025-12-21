@@ -92,15 +92,20 @@ I enjoy working close to the core of systems — APIs, databases, business logic
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EserOzbilgic&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+## 📌 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EserOzbilgic&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EserOzbilgic&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EserOzbilgic&theme=github_dark)
+
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=EserOzbilgic&icon=0&color=8)](https://visitcount.itsvg.in)
 ---
 
-## 🐍 Contribution Snake
+## 🌊 Contribution Activity
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact)
+
 
