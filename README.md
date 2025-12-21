@@ -3,7 +3,7 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=500&lines=Backend+Developer;Software+Engineer+(Backend-Oriented)" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=500&lines=Backend+Developer;Computer+Engineer+(Backend-Oriented)" 
     alt="Typing SVG" 
   />
 </h3>
@@ -34,13 +34,6 @@ I am a **Computer Engineering graduate** from
 
 My primary interest lies in building **scalable, secure, and maintainable backend systems**,  
 especially for **enterprise-level applications** and **AI-supported architectures**.
-
-I enjoy working close to the core of systems, including:
-
-- API design & implementation  
-- Database modeling and data consistency  
-- Business logic & system architecture  
-- Performance, reliability, and maintainability  
 
 **Education**
 - 🎓 B.Sc. in Computer Engineering  
@@ -142,12 +135,25 @@ I enjoy working close to the core of systems, including:
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution & Activity Overview
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact)
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<p align="center">
+  <i>Consistent contributions, continuous learning, and long-term backend focus.</i>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=EserOzbilgic&icon=0&color=8" />
+  <img 
+    src="https://visitcount.itsvg.in/api?id=EserOzbilgic&icon=0&color=8" 
+    alt="Profile Views"
+  />
 </p>
+
