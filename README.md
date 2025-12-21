@@ -1,5 +1,9 @@
 # 💫 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=700&lines=Backend-Oriented+Software+Engineer;ASP.NET+Core+%7C+Java+Spring+%7C+SQL;Building+Scalable+and+Secure+Backend+Systems;AI-Integrated+Enterprise+Applications" />
+</p>
+
 👋 Hi! I'm **Eser Özbilgiç**, a **Computer Engineering graduate** from **Konya Food & Agriculture University**,  
 focused on becoming a **backend-oriented software engineer**.
 
@@ -13,7 +17,6 @@ I enjoy working close to the core of systems — APIs, databases, business logic
 
 💻 **Backend Developer (Junior / Entry-Level)** – Java Spring & .NET  
 📚 Currently focusing on **ASP.NET Core**, **C#**, **RESTful APIs**, **backend architecture**, **SQL**, and **Python for AI & data-driven systems**
-
 
 ---
 
@@ -93,19 +96,15 @@ I enjoy working close to the core of systems — APIs, databases, business logic
 ---
 
 ## 📌 Profile Summary
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EserOzbilgic&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EserOzbilgic&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EserOzbilgic&theme=github_dark)
 
+---
+
+## 🌊 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=EserOzbilgic&icon=0&color=8)](https://visitcount.itsvg.in)
----
-
-## 🌊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact)
-
-
