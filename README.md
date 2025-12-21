@@ -12,7 +12,8 @@ I enjoy working close to the core of systems — APIs, databases, business logic
 📊 **GPA:** 3.27 / 4.00  
 
 💻 **Backend Developer (Junior / Entry-Level)** – Java Spring & .NET  
-📚 Currently focusing on **Spring Boot**, **Advanced Backend Concepts**, **SQL**, **C#**, and **React (supporting frontend skills)**
+📚 Currently focusing on **ASP.NET Core**, **C#**, **RESTful APIs**, **backend architecture**, **SQL**, and **Python for AI & data-driven systems**
+
 
 ---
 
@@ -97,3 +98,9 @@ I enjoy working close to the core of systems — APIs, databases, business logic
 ---
 
 [![](https://visitcount.itsvg.in/api?id=EserOzbilgic&icon=0&color=8)](https://visitcount.itsvg.in)
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
