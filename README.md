@@ -32,7 +32,7 @@ I am a **Computer Engineering graduate** from
 **Konya Food & Agriculture University (100% English Program)** with a strong focus on  
 **backend-oriented software development**.
 
-My primary interest lies in building **scalable, secure, and maintainable backend systems**,  
+My primary interests in building **scalable, secure, and maintainable backend systems**,  
 especially for **enterprise-level applications** and **AI-supported architectures**.
 
 **Education**
@@ -135,24 +135,22 @@ especially for **enterprise-level applications** and **AI-supported architecture
 
 ---
 
-## 📈 Contribution & Activity Overview
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact" 
     alt="GitHub Contribution Graph"
   />
-</p>
-
-<p align="center">
-  <i>Consistent contributions, continuous learning, and long-term backend focus.</i>
 </p>
 
 ---
 
 <p align="center">
   <img 
-    src="https://visitcount.itsvg.in/api?id=EserOzbilgic&icon=0&color=8" 
+    src="https://komarev.com/ghpvc/?username=EserOzbilgic&label=Profile%20Views&color=blue&style=flat" 
     alt="Profile Views"
   />
 </p>
