@@ -1,77 +1,24 @@
-# Hi there 👋 I'm Eser Özbilgiç
+# 💫 About Me:
+🎓 Computer Engineering Graduate | GPA: 3.27<br>💻 Backend Developer in Progress (Java Spring & .NET)<br>🚀 Passionate about scalable server-side applications, enterprise backend systems, and AI-driven solutions<br>📚 Currently learning Spring Boot, Advanced Backend Concepts, SQL, C#, and React.js
 
-### 🎓 Computer Engineering Graduate | GPA: 3.27  
-💻 **Backend Developer in Progress (Java Spring & .NET)**  
-🚀 Passionate about **scalable server-side applications**, **enterprise backend systems**, and **AI-driven solutions**  
-📚 Currently learning **Spring Boot**, **Advanced Backend Concepts**, **SQL**, **C#**, and **React.js**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eser-özbilgiç) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Eser_Ozbilgic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eser.ozbilgic@gmail.com) 
 
-## 🔭 Work Experience
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EserOzbilgic&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EserOzbilgic&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EserOzbilgic&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**🎯 TÜBİTAK Project Scholar (2024 – 2025)**  
-- Developed a **cross-platform survey application (Android & iOS)** for farmers and researchers.  
-- Designed **backend logic**, handled **data processing**, and supported **API-based communication**.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EserOzbilgic&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-**💻 Information Systems Intern – Brisa Bridgestone Sabancı (2024)**  
-- Built **object detection and counting systems** using image processing techniques.  
-- Prepared datasets and supported **AI-related backend workflows**.  
-
-**🔌 IT Intern – Uğur Balkuv Triko San. ve Tic. A.Ş. (2023)**  
-- Hands-on experience with **network setup, cabling**, and enterprise IT systems.  
-- Improved problem-solving skills in real-world IT environments.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EserOzbilgic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=EserOzbilgic&icon=0&color=8)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Core Backend
-| Java | Spring Boot | .NET | C# | SQL |
-|------|-------------|------|----|-----|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white) |
-
-### Supporting Technologies
-| Node.js | Python | MySQL | Docker | Git |
-|--------|--------|-------|--------|-----|
-| ![Node.js](https://img.shields.io/badge/Node.js-777777?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
-### Frontend & Other Skills
-| React | JavaScript | HTML | CSS | Image Processing |
-|-------|------------|------|-----|-----------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![OpenCV](https://img.shields.io/badge/Image_Processing-009688?style=for-the-badge&logo=opencv&logoColor=white) |
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="180em"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EserOzbilgic&theme=tokyonight&hide_border=true" height="200em"/>
-</p>
-
----
-
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/EserOzbilgic?theme=dark&font=Baloo&ext=contest"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:eser.ozbilgic@gmail.com"><img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eser-%C3%B6zbilgi%C3%A7-9415481b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/EserOzbilgic"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-✨ Focused on **Java Spring Boot & .NET backend development**,  
-✨ Crafting code, exploring tech, and leveling up continuously.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
