@@ -3,16 +3,8 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com
-      ?font=Fira+Code
-      &size=21
-      &pause=1400
-      &color=58A6FF
-      &center=true
-      &vCenter=true
-      &width=520
-      &lines=Backend+Developer;Computer+Engineer;Backend-Oriented+Software+Engineer" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1400&color=A371F7&center=true&vCenter=true&width=520&lines=Backend+Developer;Computer+Engineer;Backend-Oriented" 
+    alt="Typing SVG"
   />
 </h3>
 
