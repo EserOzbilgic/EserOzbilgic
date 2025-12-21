@@ -1,7 +1,17 @@
 # 💫 About Me
-🎓 **Computer Engineering Graduate** | GPA: **3.27**  
+
+👋 Hi! I'm **Eser Özbilgiç**, a **Computer Engineering graduate** from **Konya Food & Agriculture University**,  
+focused on becoming a **backend-oriented software engineer**.
+
+I am passionate about building **scalable, secure, and maintainable backend systems**,  
+with a strong interest in **enterprise applications** and **AI-integrated solutions**.  
+I enjoy working close to the core of systems — APIs, databases, business logic, and performance-critical components.
+
+🎓 **Computer Engineering Graduate** (100% English Program)  
+📍 **Konya Food & Agriculture University**  
+📊 **GPA:** 3.27 / 4.00  
+
 💻 **Backend Developer (Junior / Entry-Level)** – Java Spring & .NET  
-🚀 Passionate about **scalable server-side applications**, **enterprise backend systems**, and **secure architectures**  
 📚 Currently focusing on **Spring Boot**, **Advanced Backend Concepts**, **SQL**, **C#**, and **React (supporting frontend skills)**
 
 ---
@@ -44,40 +54,33 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-🧪 Experience
-🔬 TÜBİTAK Project Scholar
+---
 
-Konya Food & Agriculture University | Feb 2024 – Jan 2025
+## 🧪 Experience
 
-Worked as an undergraduate researcher on a mobile survey application for farmers and academic researchers
+### 🔬 TÜBİTAK Project Scholar  
+**Konya Food & Agriculture University** | *Feb 2024 – Jan 2025*  
+- Worked as an **undergraduate researcher** on a **mobile survey application** for farmers and academic researchers  
+- Contributed to **backend-related logic**, data handling, and application workflows  
+- Supported **cross-platform mobile usage** (Android & iOS)  
+- Gained experience with **real-world data collection systems** and academic software projects  
 
-Contributed to backend-related logic, data handling, and application workflows
+---
 
-Supported cross-platform mobile usage (Android & iOS)
+### 🏭 Information Systems Intern  
+**Brisa Bridgestone Sabancı** | *Aug 2024 – Sep 2024*  
+- Developed **image processing solutions** for **object detection and counting**  
+- Prepared and organized **datasets** for computer vision tasks  
+- Worked with **Python-based image and data processing pipelines**  
+- Observed and contributed to **industrial AI applications**
 
-Gained experience with real-world data collection systems and academic software projects
+---
 
-🏭 Information Systems Intern
-
-Brisa Bridgestone Sabancı | Aug 2024 – Sep 2024
-
-Developed image processing solutions for object detection and counting
-
-Prepared and organized datasets for computer vision tasks
-
-Worked with Python-based image and data processing pipelines
-
-Observed and contributed to industrial AI applications
-
-🖧 IT Intern
-
-Uğur Balkuv Triko San. ve Tic. A.Ş. | Jun 2023 – Jul 2023
-
-Installed and configured network infrastructure (data cabling, access points)
-
-Assisted in IT support and system maintenance tasks
-
-Improved technical troubleshooting, communication, and problem-solving skills
+### 🖧 IT Intern  
+**Uğur Balkuv Triko San. ve Tic. A.Ş.** | *Jun 2023 – Jul 2023*  
+- Installed and configured **network infrastructure** (data cabling, access points)  
+- Assisted in **IT support and system maintenance** tasks  
+- Improved **technical troubleshooting, communication, and problem-solving skills**
 
 ---
 
