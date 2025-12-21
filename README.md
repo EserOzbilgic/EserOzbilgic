@@ -32,12 +32,12 @@
 
 ## 💫 About Me
 
-I am a **Computer Engineer** Graduate from  
-**Konya Food & Agriculture University (100% English Program)** with a strong focus on  
-**backend-oriented software development**.
+I am a **Computer Engineer**, a graduate of **Konya Food & Agriculture University (100% English Program)**,  
+with a strong focus on **backend-oriented software development**.
 
-My primary interests in building **scalable, secure, and maintainable backend systems**,  
-especially for **enterprise-level applications** and **AI-supported architectures**.
+My primary interest lies in building **scalable, secure, and maintainable backend systems**,  
+particularly for **enterprise-level applications** and **AI-supported architectures**.
+
 
 **Education**
 - 🎓 B.Sc. in Computer Engineering  
