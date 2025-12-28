@@ -141,13 +141,13 @@ particularly for **enterprise-level applications** and **AI-supported architectu
 </p>
 ---
 
----
+
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&bg_color=0d1117&color=A371F7&line=A371F7&point=FFFFFF&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&bg_color=0d1117&color=blue&line=A371F7&point=FFFFFF&area=true&hide_border=true" 
     alt="GitHub Contribution Graph"
   />
 </p>
