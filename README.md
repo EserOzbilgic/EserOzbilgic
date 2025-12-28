@@ -125,17 +125,20 @@ particularly for **enterprise-level applications** and **AI-supported architectu
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&theme=codeSTACKr&include_all_commits=true&count_private=true" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EserOzbilgic&theme=github_dark" 
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=EserOzbilgic&theme=codeSTACKr" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EserOzbilgic&theme=github_dark" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EserOzbilgic&theme=github_dark" 
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EserOzbilgic&layout=compact&theme=codeSTACKr" />
-</p>
-
 ---
 
 ---
@@ -144,7 +147,7 @@ particularly for **enterprise-level applications** and **AI-supported architectu
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&theme=github-compact" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&bg_color=0d1117&color=A371F7&line=A371F7&point=FFFFFF&area=true&hide_border=true" 
     alt="GitHub Contribution Graph"
   />
 </p>
