@@ -134,30 +134,44 @@ particularly for **enterprise-level applications** and **AI-supported architectu
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EserOzbilgic&theme=github_dark" 
+    height="165"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EserOzbilgic&theme=github_dark" 
+    height="165"
   />
 </p>
----
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=codeSTACKr&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=EserOzbilgic&theme=codeSTACKr&hide_border=true" 
+    height="165"
+  />
+</p>
 
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&bg_color=0d1117&color=blue&line=A371F7&point=FFFFFF&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EserOzbilgic&bg_color=0d1117&color=8b949e&line=A371F7&point=ffffff&area=true&hide_border=true" 
     alt="GitHub Contribution Graph"
   />
 </p>
 
----
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=EserOzbilgic&label=Profile%20Views&color=blue&style=flat" 
+    src="https://komarev.com/ghpvc/?username=EserOzbilgic&label=Profile%20Views&color=A371F7&style=flat" 
     alt="Profile Views"
   />
+</p>
+
+<p align="center">
+  <sub>Consistent learning, continuous improvement, backend-first mindset.</sub>
 </p>
 
