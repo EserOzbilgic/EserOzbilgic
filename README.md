@@ -142,18 +142,6 @@ particularly for **enterprise-level applications** and **AI-supported architectu
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=EserOzbilgic&show_icons=true&theme=codeSTACKr&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=EserOzbilgic&theme=codeSTACKr&hide_border=true" 
-    height="165"
-  />
-</p>
-
-
 ## 📈 Contribution Activity
 
 <p align="center">
