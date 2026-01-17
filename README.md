@@ -46,7 +46,7 @@ particularly for **enterprise-level applications** and **AI-supported architectu
 
 **Current Focus**
 - ASP.NET Core & C#  
-- Node.js  
+- Go
 - RESTful APIs & backend architecture  
 - SQL & data persistence  
 - Python for AI & data-driven backend systems  
